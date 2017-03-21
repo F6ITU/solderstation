@@ -1,0 +1,79 @@
+update=18/03/2015 13:01:21
+version=1
+last_client=pcbnew
+[general]
+version=1
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
+[eeschema]
+version=1
+LibDir=
+NetFmtName=PcbnewAdvanced
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
+[eeschema/libraries]
+LibName1=power
+LibName2=device
+LibName3=transistors
+LibName4=conn
+LibName5=regul
+LibName6=audio
+LibName7=interface
+LibName8=display
+LibName9=opto
+LibName10=atmel
+LibName11=C:/Program Files/KiCad/Libs station/arduino_nano
+LibName12=C:/Program Files/KiCad/Libs station/irf7476
+LibName13=C:/Program Files/KiCad/Libs station/sc08-11ywa
+LibName14=C:/Program Files/KiCad/Libs station/sw_push_4pin
+LibName15=C:/Program Files/KiCad/Libs station/opa336
+LibName16=C:/Program Files/KiCad/Libs station/switch-enc
+LibName17=C:/Program Files/KiCad/Libs station/Rotary_encoder
+[pcbnew]
+version=1
+LastNetListRead=
+UseCmpFile=1
+PadDrill=3.048000000000
+PadDrillOvalY=3.048000000000
+PadSizeH=4.064000000000
+PadSizeV=4.064000000000
+PcbTextSizeV=1.500000000000
+PcbTextSizeH=1.500000000000
+PcbTextThickness=0.300000000000
+ModuleTextSizeV=1.000000000000
+ModuleTextSizeH=1.000000000000
+ModuleTextSizeThickness=0.150000000000
+SolderMaskClearance=0.000000000000
+SolderMaskMinWidth=0.000000000000
+DrawSegmentWidth=0.200000000000
+BoardOutlineThickness=0.100000000000
+ModuleOutlineThickness=0.150000000000
+[pcbnew/libraries]
+LibDir=
+LibName1=sockets
+LibName2=connect
+LibName3=discret
+LibName4=pin_array
+LibName5=divers
+LibName6=smd_capacitors
+LibName7=smd_resistors
+LibName8=smd_dil
+LibName9=smd_transistors
+LibName10=libcms
+LibName11=display
+LibName12=led
+LibName13=dip_sockets
+LibName14=C:/Program Files/KiCad/Libs station/sw_12x12_cms
+LibName15=C:/Program Files/KiCad/Libs station/7_Seg_20mm
+LibName16=C:/Program Files/KiCad/Libs station/rotary_encoder
+LibName17=C:/Program Files/KiCad/Libs station/Arduino_Nano
+LibName18=C:/Program Files/KiCad/Libs station/SIL_17
+LibName19=C:/Program Files/KiCad/Libs station/logo_electro
+LibName20=C:/Program Files/KiCad/Libs station/logo_oshw
+LibName21=C:/Program Files/KiCad/Libs station/logo_ossw
+LibName22=logo

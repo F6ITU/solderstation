@@ -1,0 +1,119 @@
+PCBNEW-LibModule-V1  14/03/2015 14:53:25
+# encoding utf-8
+Units mm
+$INDEX
+7_Seg_20mm
+$EndINDEX
+$MODULE 7_Seg_20mm
+Po 0 0 0 15 55043D33 00000000 ~~
+Li 7_Seg_20mm
+Sc 0
+AR /54F722E2
+Op 0 0 0
+T0 0 2.54 1 1 0 0.15 N V 21 N "AFF4"
+T1 0 -5.08 1 1 0 0.15 N V 21 N "SC08-11YWA"
+DS -10 -15 -10 12.5 0.15 21
+DS -10 12.5 -9.5 12.5 0.15 21
+DS 10 12.5 -9.5 12.5 0.15 21
+DS 10 -15 10 12.5 0.15 21
+DS -10 -15 -9.5 -15 0.15 21
+DS 10 -15 -9.5 -15 0.15 21
+DC 5.08 7.62 3.81 7.62 0.15 21
+DS -2.54 -1.27 3.81 -1.27 0.15 21
+DS 6.35 -8.89 2.54 7.62 0.15 21
+DS -6.35 7.62 -1.27 -8.89 0.15 21
+DS -1.27 -10.16 6.35 -10.16 0.15 21
+DS -6.35 8.89 2.54 8.89 0.15 21
+$PAD
+Sh "1" O 3 2 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 1 "/A"
+Po -7.62 -10.16
+$EndPAD
+$PAD
+Sh "16" O 3 2 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 -10.16
+$EndPAD
+$PAD
+Sh "2" O 3 2 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 7 "/F"
+Po -7.5 -7.5
+$EndPAD
+$PAD
+Sh "4" O 3 2 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 6 "/E"
+Po -7.62 -2.54
+$EndPAD
+$PAD
+Sh "13" O 3 2 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 8 "/G"
+Po 7.5 -3
+$EndPAD
+$PAD
+Sh "14" O 3 2 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 2 "/B"
+Po 7.5 -6
+$EndPAD
+$PAD
+Sh "3" O 3 2 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.5 -5
+$EndPAD
+$PAD
+Sh "10" O 3 2 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 4 "/D"
+Po 7.62 5.08
+$EndPAD
+$PAD
+Sh "9" O 3 2 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 5 "/DP"
+Po 7.62 7.62
+$EndPAD
+$PAD
+Sh "6" O 3 2 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 2.54
+$EndPAD
+$PAD
+Sh "11" O 3 2 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 2.54
+$EndPAD
+$PAD
+Sh "12" O 3 2 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 3 "/C"
+Po 7.62 0
+$EndPAD
+$PAD
+Sh "5" O 3 2 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 9 "N-0000015"
+Po -7.62 0
+$EndPAD
+$EndMODULE 7_Seg_20mm
+$EndLIBRARY
